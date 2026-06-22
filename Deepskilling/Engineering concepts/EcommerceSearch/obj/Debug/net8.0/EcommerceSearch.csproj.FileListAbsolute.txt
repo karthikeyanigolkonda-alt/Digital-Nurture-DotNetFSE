@@ -1,0 +1,15 @@
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\bin\Debug\net8.0\EcommerceSearch.exe
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\bin\Debug\net8.0\EcommerceSearch.deps.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\bin\Debug\net8.0\EcommerceSearch.runtimeconfig.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\bin\Debug\net8.0\EcommerceSearch.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\bin\Debug\net8.0\EcommerceSearch.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.AssemblyInfo.cs
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.sourcelink.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\refint\EcommerceSearch.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\EcommerceSearch.genruntimeconfig.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\EcommerceSearch\obj\Debug\net8.0\ref\EcommerceSearch.dll
