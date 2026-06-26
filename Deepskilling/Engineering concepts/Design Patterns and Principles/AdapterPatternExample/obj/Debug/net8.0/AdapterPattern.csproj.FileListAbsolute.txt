@@ -13,3 +13,18 @@ C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineeri
 C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
 C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
 C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net8.0\AdapterPattern.exe
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.sourcelink.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net8.0\ref\AdapterPattern.dll
