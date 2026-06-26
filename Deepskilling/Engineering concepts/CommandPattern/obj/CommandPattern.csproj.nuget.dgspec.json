@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj": {}
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj": {
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj",
+        "projectUniqueName": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj",
         "projectName": "CommandPattern",
-        "projectPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj",
+        "projectPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\CommandPattern.csproj",
         "packagesPath": "C:\\Users\\gslka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\obj\\",
+        "outputPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\CommandPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gslka\\AppData\\Roaming\\NuGet\\NuGet.Config"

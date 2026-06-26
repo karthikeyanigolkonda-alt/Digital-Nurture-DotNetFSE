@@ -1,0 +1,15 @@
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\bin\Debug\net8.0\CommandPattern.exe
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\bin\Debug\net8.0\CommandPattern.deps.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\bin\Debug\net8.0\CommandPattern.runtimeconfig.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\bin\Debug\net8.0\CommandPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\bin\Debug\net8.0\CommandPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.AssemblyInfo.cs
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.sourcelink.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\refint\CommandPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\CommandPattern.genruntimeconfig.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\CommandPattern\obj\Debug\net8.0\ref\CommandPattern.dll

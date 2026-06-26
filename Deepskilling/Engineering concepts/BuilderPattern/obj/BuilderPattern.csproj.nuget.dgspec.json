@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj": {}
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj": {
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj",
+        "projectUniqueName": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj",
         "projectName": "BuilderPattern",
-        "projectPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj",
+        "projectPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\BuilderPattern.csproj",
         "packagesPath": "C:\\Users\\gslka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\obj\\",
+        "outputPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\BuilderPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gslka\\AppData\\Roaming\\NuGet\\NuGet.Config"

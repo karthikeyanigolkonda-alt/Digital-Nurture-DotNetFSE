@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\gslka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\obj\\",
+        "outputPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gslka\\AppData\\Roaming\\NuGet\\NuGet.Config"

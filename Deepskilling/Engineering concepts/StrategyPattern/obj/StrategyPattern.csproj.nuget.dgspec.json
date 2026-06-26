@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj": {}
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj": {
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\gslka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\obj\\",
+        "outputPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gslka\\AppData\\Roaming\\NuGet\\NuGet.Config"

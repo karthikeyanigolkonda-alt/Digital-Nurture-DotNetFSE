@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj": {}
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj": {
+    "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj",
+        "projectUniqueName": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj",
         "projectName": "AdapterPattern",
-        "projectPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj",
+        "projectPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\AdapterPattern.csproj",
         "packagesPath": "C:\\Users\\gslka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\obj\\",
+        "outputPath": "C:\\Users\\gslka\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\Deepskilling\\Engineering concepts\\AdapterPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gslka\\AppData\\Roaming\\NuGet\\NuGet.Config"

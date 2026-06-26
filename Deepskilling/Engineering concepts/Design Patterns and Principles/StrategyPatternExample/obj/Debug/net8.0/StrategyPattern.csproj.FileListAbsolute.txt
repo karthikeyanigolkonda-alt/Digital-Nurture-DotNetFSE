@@ -1,0 +1,15 @@
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.sourcelink.json
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
