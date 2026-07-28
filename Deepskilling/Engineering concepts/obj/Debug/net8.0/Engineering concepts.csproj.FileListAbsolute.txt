@@ -1,0 +1,5 @@
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\obj\Debug\net8.0\Engineering concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\obj\Debug\net8.0\Engineering concepts.AssemblyInfoInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\obj\Debug\net8.0\Engineering concepts.AssemblyInfo.cs
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\obj\Debug\net8.0\Engineering concepts.csproj.CoreCompileInputs.cache
+C:\Users\gslka\OneDrive\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\obj\Debug\net8.0\Engineering concepts.sourcelink.json
