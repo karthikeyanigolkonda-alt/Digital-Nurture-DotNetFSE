@@ -1,0 +1,35 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Test result files
+TestResults/
+
+# User-specific files
+*.log
+*.vspscc
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# OneDrive
+~$*
