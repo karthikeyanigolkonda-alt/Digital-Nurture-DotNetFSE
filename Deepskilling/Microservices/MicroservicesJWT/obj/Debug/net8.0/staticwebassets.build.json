@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1CC7iR0bmaaHRZerSDo6DHiJX3w8J7AS4UK3iC5ah0M=",
+  "Source": "MicroservicesJWT",
+  "BasePath": "_content/MicroservicesJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
