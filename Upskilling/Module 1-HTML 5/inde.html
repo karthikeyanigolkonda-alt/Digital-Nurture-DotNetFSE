@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Student Course Portal">
+    <title>Student Course Portal</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Student Course Portal</h1>
+    <p>Learn, Practice and Grow</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a> |
+    <a href="#courses">Courses</a> |
+    <a href="#about">About</a> |
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+
+<section id="home">
+    <h2>Welcome</h2>
+    <p>Welcome to the Student Course Portal.</p>
+
+    <figure>
+        <img src="https://via.placeholder.com/600x200"
+             alt="Student learning">
+        <figcaption>Learn new technical skills.</figcaption>
+    </figure>
+</section>
+
+<section id="courses">
+    <h2>Available Courses</h2>
+
+    <article>
+        <h3>C# Programming</h3>
+        <p>Learn C# and .NET programming.</p>
+        <ul>
+            <li>Object Oriented Programming</li>
+            <li>Collections</li>
+            <li>Exception Handling</li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Angular</h3>
+        <p>Build modern web applications.</p>
+    </article>
+
+    <article>
+        <h3>SQL</h3>
+        <p>Learn database queries and management.</p>
+    </article>
+</section>
+
+<section id="about">
+    <h2>About</h2>
+    <p>This portal helps students manage and explore courses.</p>
+
+    <details>
+        <summary>More Information</summary>
+        <p>Students can explore courses and improve their technical skills.</p>
+    </details>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <br><br>
+
+        <label for="course">Course:</label>
+        <select id="course" name="course">
+            <option>C#</option>
+            <option>Angular</option>
+            <option>SQL</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Student Course Portal</p>
+</footer>
+
+</body>
+</html>
